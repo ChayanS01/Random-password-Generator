@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@font-face {
+     font-family: "SF Pro Text";
+     src: url("password-generator\src\assets\SF-Pro-Text-Regular.otf") format("opentype");
+     font-weight: normal;
+     font-style: normal;
+   }
+   
+  
